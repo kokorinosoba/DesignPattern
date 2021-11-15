@@ -6,7 +6,9 @@ namespace AdapterDelegate
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Print print = new PrintBanner("Hello");
+            print.PrintWeak();
+            print.PrintStrong();
         }
     }
 }
