@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iterator", "Iterator\Iterat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdapterDerived", "Adapter\AdapterDerived.csproj", "{BEE87CCC-07D8-47D0-867E-4A3B6F9F971C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdapterDelegate", "AdapterDelegate\AdapterDelegate.csproj", "{EE713F6E-35CC-4B26-BAD7-0B4704DA3ECF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|anycpu = Debug|anycpu
@@ -27,6 +29,10 @@ Global
 		{BEE87CCC-07D8-47D0-867E-4A3B6F9F971C}.Debug|anycpu.Build.0 = Debug|anycpu
 		{BEE87CCC-07D8-47D0-867E-4A3B6F9F971C}.Release|anycpu.ActiveCfg = Release|anycpu
 		{BEE87CCC-07D8-47D0-867E-4A3B6F9F971C}.Release|anycpu.Build.0 = Release|anycpu
+		{EE713F6E-35CC-4B26-BAD7-0B4704DA3ECF}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{EE713F6E-35CC-4B26-BAD7-0B4704DA3ECF}.Debug|anycpu.Build.0 = Debug|anycpu
+		{EE713F6E-35CC-4B26-BAD7-0B4704DA3ECF}.Release|anycpu.ActiveCfg = Release|anycpu
+		{EE713F6E-35CC-4B26-BAD7-0B4704DA3ECF}.Release|anycpu.Build.0 = Release|anycpu
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
