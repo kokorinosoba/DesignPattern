@@ -6,7 +6,9 @@ namespace Adapter
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            IPrint print = new PrintBanner("Hello");
+            print.PrintWeak();
+            print.PrintStrong();
         }
     }
 }

@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPattern", "DesignPatt
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iterator", "Iterator\Iterator.csproj", "{FCCCBB94-F3B3-45BE-9BBA-274EBC993978}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adapter", "Adapter\Adapter.csproj", "{BEE87CCC-07D8-47D0-867E-4A3B6F9F971C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdapterDerived", "Adapter\AdapterDerived.csproj", "{BEE87CCC-07D8-47D0-867E-4A3B6F9F971C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
