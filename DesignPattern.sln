@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bridge", "Bridge\Bridge.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryFramework", "FactoryFramework\FactoryFramework.csproj", "{CFFAEBC1-7B00-4C6F-8EF7-0BA04B699583}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryIDCard", "FactoryIDCard\FactoryIDCard.csproj", "{4349F9BB-CEF8-487D-BCA7-8EAE4DA5BF9F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|anycpu = Debug|anycpu
@@ -51,6 +53,10 @@ Global
 		{CFFAEBC1-7B00-4C6F-8EF7-0BA04B699583}.Debug|anycpu.Build.0 = Debug|anycpu
 		{CFFAEBC1-7B00-4C6F-8EF7-0BA04B699583}.Release|anycpu.ActiveCfg = Release|anycpu
 		{CFFAEBC1-7B00-4C6F-8EF7-0BA04B699583}.Release|anycpu.Build.0 = Release|anycpu
+		{4349F9BB-CEF8-487D-BCA7-8EAE4DA5BF9F}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{4349F9BB-CEF8-487D-BCA7-8EAE4DA5BF9F}.Debug|anycpu.Build.0 = Debug|anycpu
+		{4349F9BB-CEF8-487D-BCA7-8EAE4DA5BF9F}.Release|anycpu.ActiveCfg = Release|anycpu
+		{4349F9BB-CEF8-487D-BCA7-8EAE4DA5BF9F}.Release|anycpu.Build.0 = Release|anycpu
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
