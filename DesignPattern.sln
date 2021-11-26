@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryFramework", "Factory
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryIDCard", "FactoryIDCard\FactoryIDCard.csproj", "{4349F9BB-CEF8-487D-BCA7-8EAE4DA5BF9F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Builder", "Builder\Builder.csproj", "{061D293B-66B4-42B7-93C2-5E100A84CEC2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|anycpu = Debug|anycpu
@@ -57,6 +59,10 @@ Global
 		{4349F9BB-CEF8-487D-BCA7-8EAE4DA5BF9F}.Debug|anycpu.Build.0 = Debug|anycpu
 		{4349F9BB-CEF8-487D-BCA7-8EAE4DA5BF9F}.Release|anycpu.ActiveCfg = Release|anycpu
 		{4349F9BB-CEF8-487D-BCA7-8EAE4DA5BF9F}.Release|anycpu.Build.0 = Release|anycpu
+		{061D293B-66B4-42B7-93C2-5E100A84CEC2}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{061D293B-66B4-42B7-93C2-5E100A84CEC2}.Debug|anycpu.Build.0 = Debug|anycpu
+		{061D293B-66B4-42B7-93C2-5E100A84CEC2}.Release|anycpu.ActiveCfg = Release|anycpu
+		{061D293B-66B4-42B7-93C2-5E100A84CEC2}.Release|anycpu.Build.0 = Release|anycpu
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
